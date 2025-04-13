@@ -1,5 +1,7 @@
 div {
     background-color: #222864c3;
-    padding: 20px;
+    padding: 10px;
+    color : moccasin;
     border-radius: 5px;
+    margin-bottom: 5px;
 }
